@@ -1,0 +1,21 @@
+Statistics for Pages with no inlinks (Sources) and Pages with no outlinks (sink) nodes for graphs obtained in Task1:
+
+For graph G1:
+Pages with No outlinks (sinks): 1
+Total Number of Pages: 1000
+
+Proportion of pages without any outlinks: 0.001
+
+Pages with No Inlinks (sources) : 0
+Proportion of pages without any inlinks: 0.0
+
+
+
+For graph G2:
+Pages with No outlinks (sinks): 66175
+Total Number of Pages: 183811
+
+Proportion of pages with no outlinks: 0.360016538727
+
+Pages with No Inlinks (sources) : 14350
+Proportion of pages with no inlinks: 0.0780693212049
